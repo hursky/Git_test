@@ -1,0 +1,67 @@
+{
+    "engineer": "이동혁",
+    "site": "안양발전소",
+    "date": "2023.03.02",
+    "result_dir": "C:\\work\\lab_study\\TCX_fieldAnalyzer",
+    "motor_set": [
+        {
+            "name": "저압모터1",
+            "data": [
+                "C:/work/lab_study/week12/test/ansung (1).json",
+                "C:/work/lab_study/week12/test/ansung (2).json",
+                "C:/work/lab_study/week12/test/ansung (3).json",
+                "C:/work/lab_study/week12/test/ansung (4).json"
+            ]
+        },
+        {
+            "name": "저압모터2",
+            "data": [
+                "C:/work/lab_study/week12/test/ansung (6).json",
+                "C:/work/lab_study/week12/test/ansung (7).json",
+                "C:/work/lab_study/week12/test/ansung (8).json",
+                "C:/work/lab_study/week12/test/ansung (9).json",
+                "C:/work/lab_study/week12/test/ansung (10).json",
+                "C:/work/lab_study/week12/test/ansung (11).json"
+            ]
+        },
+        {
+            "name": "",
+            "data": [
+                "C:/work/lab_study/w7/ansung/ansung (5).json"
+            ]
+        },
+        {
+            "name": "",
+            "data": []
+        },
+        {
+            "name": "",
+            "data": []
+        },
+        {
+            "name": "",
+            "data": []
+        },
+        {
+            "name": "",
+            "data": [
+                "C:/work/lab_study/w7/ansung/ansung (6).json",
+                "C:/work/lab_study/w7/ansung/ansung (7).json",
+                "C:/work/lab_study/w7/ansung/ansung (8).json",
+                "C:/work/lab_study/w7/ansung/ansung (9).json"
+            ]
+        },
+        {
+            "name": "",
+            "data": []
+        },
+        {
+            "name": "",
+            "data": []
+        },
+        {
+            "name": "",
+            "data": []
+        }
+    ]
+}
